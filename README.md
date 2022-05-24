@@ -1,5 +1,5 @@
 # IMPORTANT!!!
-Do WIN + R And type cmd 
+Do WIN + R And type cmd and hit enter
 Then type "pip install discord.py"
 **OR ELSE YOUR BOT WONT WORK**
 
